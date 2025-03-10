@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sim_1/new/tb.v,1741526300,verilog,,,,tb,,,,,,,,
+C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sources_1/new/axi_slave_mem.v,1741526332,verilog,,C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sources_1/new/dma_master.v,,axi_slave_memory,,,,,,,,
+C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sources_1/new/dma_master.v,1741588181,verilog,,C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sources_1/new/sync_fifo.v,,dma_master,,,,,,,,
+C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sources_1/new/sync_fifo.v,1741255642,verilog,,C:/Users/Hp/Desktop/AXI4-Lite DMA Controller/AXI4-Lite_DMA_Controller.srcs/sim_1/new/tb.v,,sync_fifo,,,,,,,,

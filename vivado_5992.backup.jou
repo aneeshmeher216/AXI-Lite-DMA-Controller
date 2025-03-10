@@ -1,0 +1,61 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Mar  7 15:50:24 2025
+# Process ID: 5992
+# Current directory: E:/Study/UDYAM_2025/I-Chip/PS1/PS1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent12944 E:\Study\UDYAM_2025\I-Chip\PS1\PS1\PS1.xpr
+# Log file: E:/Study/UDYAM_2025/I-Chip/PS1/PS1/vivado.log
+# Journal file: E:/Study/UDYAM_2025/I-Chip/PS1/PS1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+launch_simulation
+launch_simulation
+source tb.tcl
+relaunch_sim
+relaunch_sim
+close_sim
+launch_simulation
+launch_simulation
+source tb.tcl
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+add_bp {E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.srcs/sources_1/new/axi_slave_mem.v} 60
+relaunch_sim
+relaunch_sim
+relaunch_sim
+run 50 ns
+run 50 ns
+run 50 ns
+relaunch_sim
+run 50 ns
+run 50 ns
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+relaunch_sim
+close_sim

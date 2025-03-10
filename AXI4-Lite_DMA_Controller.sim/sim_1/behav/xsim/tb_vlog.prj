@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../AXI4-Lite_DMA_Controller.srcs/sources_1/new/axi_slave_mem.v" \
+"../../../../AXI4-Lite_DMA_Controller.srcs/sources_1/new/dma_master.v" \
+"../../../../AXI4-Lite_DMA_Controller.srcs/sources_1/new/sync_fifo.v" \
+"../../../../AXI4-Lite_DMA_Controller.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat Mar  8 22:40:44 2025
+# Process ID: 27844
+# Current directory: E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source E:/Study/UDYAM_2025/I-Chip/PS1/PS1/PS1.sim/sim_1/behav/xsim/xsim.dir/tb_behav/webtalk/xsim_webtalk.tcl -notrace

@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sun Mar  9 22:09:03 2025
+# Process ID: 12152
+# Current directory: C:/Users/Hp/Desktop/PS1 Final
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent19552 C:\Users\Hp\Desktop\PS1 Final\PS1.xpr
+# Log file: C:/Users/Hp/Desktop/PS1 Final/vivado.log
+# Journal file: C:/Users/Hp/Desktop/PS1 Final\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Hp/Desktop/PS1 Final/PS1.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/Hp/Desktop/PS1' since last save.
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.
+open_project: Time (s): cpu = 00:00:04 ; elapsed = 00:00:05 . Memory (MB): peak = 811.344 ; gain = 136.754
+update_compile_order -fileset sources_1
+save_project_as AXI4-Lite_DMA_Controller
+AXI4-Lite_DMA_Controller
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Mar  9 22:10:45 2025...
